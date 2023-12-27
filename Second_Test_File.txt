@@ -1,1 +1,2 @@
-2nd Git File for practice
+
+deleting th first line 
